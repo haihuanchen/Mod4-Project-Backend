@@ -1,24 +1,41 @@
-# README
+Source Code Back End
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A social application for users to learn and post articles about programming languages tips and lessons
 
-Things you may want to cover:
+Prerequisites
 
-* Ruby version
+Before you begin, ensure you have met the following requirements:
 
-* System dependencies
+You have installed the latest version of Ruby on Rails as back end & React JavaScript as Front End. You have a <Linux/Mac> machine.Windows OS is currently not supported. This project was bootstrapped with Create React App.
 
-* Configuration
+-Developed Rails API backend with PostGreSQL database to retrieve programming languages and articles 
+-Implemented user interface with React frontend to view programming languages articles 
+-Employed user interface and allow users to post new programming languages articles
 
-* Database creation
+As a User, you can...
 
-* Database initialization
+-Click signup / login to the account
 
-* How to run the test suite
+-Click Home button to view variety of programming languages
 
-* Services (job queues, cache servers, search engines, etc.)
+-Click the dropdown menu to select which programming language to view
 
-* Deployment instructions
+-Click the resources link for more resources regarding this programming language
 
-* ...
+-Click Articles button to receive all the articles regarding this programming language
+
+-Add an article about the tips and tricks of the programming language
+
+-Edit the article that you wrote about this programming language
+
+-Delete the article that you wrote about this programming language
+
+-Use the search bar to filter/search certain articles regarding this programming language
+
+Future Features yet to be implemented:
+
+-Add a feature for users to add another programming language
+
+-Add comments to an article
+
+-Allow users to add/edit/delete their comments about an article
