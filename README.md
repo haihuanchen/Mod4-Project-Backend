@@ -2,11 +2,10 @@ Source Code Back End
 
 A social application for users to learn and post articles about programming languages tips and lessons
 
-Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-You have installed the latest version of Ruby on Rails as back end & React JavaScript as Front End. You have a <Linux/Mac> machine.Windows OS is currently not supported. This project was bootstrapped with Create React App.
+You have to install the latest version of Ruby on Rails. <Linux/Mac> machine is supported. To start the back end app, simply run terminal command 'rails s'.
 
 -Developed Rails API backend with PostGreSQL database to retrieve programming languages and articles 
 
